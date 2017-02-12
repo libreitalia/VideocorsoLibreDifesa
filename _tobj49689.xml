@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_06</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50082.html</cancelfail>
+<passdone>page50082.html</passdone>
+<prevpage>#test49650</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page76773.html</name>
+<question>
+<id>76775</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_06_1</name>
+<var>VarQuest_06_1</var>
+<text>Per applicare al testo selezionato un elenco numerato col formato I, II, III </text>
+<correctans>Formato  Elenchi puntati o numerati  Tipo di numerazione: I, II, III</correctans>
+<choices>Formato  Elenchi puntati o numerati  Tipo di numerazione: I, II, III|Inserisci  Elenchi puntati e numerati  Tipo di numerazione: I, II, III|Modifica  Elenchi puntati e numerati  Tipo di numerazione: I, II, III|Non è possibile</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76761.html</name>
+<question>
+<id>76763</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_06_2</name>
+<var>VarQuest_06_2</var>
+<text>Per modificare il tipo di punti in un elenco </text>
+<correctans>Formato  Elenchi puntati o numerati  Punti  Clic sul punto   OK,Clic col pulsante dx sulla selezione  Elenchi puntati e numerati...  scheda Punti  Clic sul punto  OK</correctans>
+<choices>Formato  Elenchi puntati o numerati  Punti  Clic sul punto   OK|Modifica  Elenchi puntati e numerati  Punti  Clic sul punto  OK|Visualizza  Elenchi puntati e numerati  Punti  OK|Clic col pulsante dx sulla selezione  Elenchi puntati e numerati...  scheda Punti  Clic sul punto  OK</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

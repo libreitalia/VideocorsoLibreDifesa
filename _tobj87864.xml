@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_26</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page87124.html</cancelfail>
+<passdone>page87124.html</passdone>
+<prevpage>#test87768</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page87877.html</name>
+<question>
+<id>92804</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_26_1</name>
+<var>VarQuest_26_1</var>
+<text>Per applicare un colore a scelta allo sfondo di tutte le diapositive si deve ...</text>
+<correctans>.. andare su Formato  Pagina  scheda Sfondo  Riempimento: colore, scegliere un colore  Ok  Impostazioni dello sfondo per tutte le pagine: Sì</correctans>
+<choices>.. fare un clic sulla diapositiva e scegliere il colore dal secchiello della barra sotto|.. Visualizza  Colore Diapositiva  Riempimento: colore, scegliere un colore  Ok  chiudere la vista sfondo|.. Modifica  Sfondo diapositive  scegliere un colore  Ok|.. andare su Formato  Pagina  scheda Sfondo  Riempimento: colore, scegliere un colore  Ok  Impostazioni dello sfondo per tutte le pagine: Sì</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page87915.html</name>
+<question>
+<id>92815</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_26_2</name>
+<var>VarQuest_26_2</var>
+<text>Per applicare il grassetto al testo di una casella occorre ...</text>
+<correctans>Selezionare il testo e fare un clic sull'icona Grassetto nella barra di formattazione</correctans>
+<choices>Fare clic sulla casella e poi andare da Formato  Stile Casella  Grassetto|Selezionare e premere Ctrl + G|Non si può fare|Selezionare il testo e fare un clic sull'icona Grassetto nella barra di formattazione</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

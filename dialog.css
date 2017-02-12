@@ -1,0 +1,159 @@
+
+.DLG_modalDiv{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	background-color:#000;
+	-moz-opacity:0.5;
+	filter:alpha(opacity=50);
+	opacity:0.5;
+	display:none;
+}
+
+.DLG_dragDiv{
+	position:absolute;
+	width:100%;
+	height:100%;
+	-moz-opacity:0.50;
+	filter:alpha(opacity=50);
+	opacity:0.50;
+	display:none;
+}
+
+.DLG_titleBar,.DLG_titleBarLine{
+	/* background-image:url(./images/dlg-titlebar.gif); */
+	/* background-repeat:repeat-x; */
+	position:relative;	/* IMPORTANT */
+}
+
+.DLG_titleBarLine{
+	border-bottom:1px solid #6f6f6f;	
+	/* border: 1px solid #6f6f6f; */
+	-moz-border-radius: 3px 3px 0 0;
+	-webkit-border-radius: 3px 3px 0 0;
+	border-radius: 3px 3px 0 0;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #fff;
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.29);
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.29);
+	box-shadow: 0 1px 2px rgba(0,0,0,.29);
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQxMCAyNCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PGxpbmVhckdyYWRpZW50IGlkPSJoYXQwIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjQ1LjI1NzIwOTUyMjc2NjQlIiB5MT0iMy4xODg2MjM2OTE0NTcyNSUiIHgyPSI0NS4yNTcyMDk1MjI3NjY0JSIgeTI9Ijg5LjE4ODYyMzY5MTQ1NzMlIj4KPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2RhZGFkYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgIDwvbGluZWFyR3JhZGllbnQ+Cgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDEwIiBoZWlnaHQ9IjI0IiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4=);
+	background-image: -moz-linear-gradient(top, #fff -0.62%, #dadada 85.38%);
+	background-image: -o-linear-gradient(top, #fff -0.62%, #dadada 85.38%);
+	background-image: -webkit-linear-gradient(top, #fff -0.62%, #dadada 85.38%);
+	background-image: linear-gradient(top, #fff -0.62%, #dadada 85.38%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#dadada',GradientType=0 );
+}
+
+.DLG_titleText{	/* The title text in the title bar */
+	padding:1px;
+	padding-left:5px;
+	color:#333;
+	font-size:12px;
+	font-weight:bold;
+	font-family: helvetica, arial;
+	height:15px; /* EJT added for PROBLEM1 */
+	text-shadow: 1px 1px 2px rgba(255, 255, 255, 1);
+}
+
+.DLG_titleBtns{	/* Div for the buttons in the title bar */
+	position:absolute;
+	right:1px;
+	top:2px; /* EJT changed from 1px to 2px for PROBLEM2 */
+	width:100px;
+	padding:0px;
+	margin:0px;
+	height:11px;
+}
+
+.DLG_titleBtns div{
+	float:right;
+}
+
+/* General button rules */
+.DLG_titleCloseBtn{
+	background-repeat:no-repeat;
+	background-position:center 3px;
+	*background-position:center 2px; /* EJT add for IE only for PROBLEM2 */
+	margin:0px;
+	padding:2px;
+	*padding:1px; /* EJT added for IE only for PROBLEM2 */
+	width:11px;
+	height:11px;
+	*overflow-y:hidden; /* EJT added for IE only for PROBLEM2 */
+}
+
+.DLG_titleCloseBtn{
+	background-image:url(./images/dlg-close.gif);
+}
+
+
+.DLG_winBtnOver {	/* General roll over effects for buttons */
+	padding:0px; /* EJT changed from 1px to 0px for PROBLEM2 */
+	margin-right:1px; /* EJT added for non IE for PROBLEM2 */
+	*margin-right:0px; /* EJT added for IE only for PROBLEM2 */
+	border:1px solid #888;
+	background-color:#FFF;
+	background-position:center 2px; /* EJT added for non IE for PROBLEM2 */
+	*background-position:center 1px; /* EJT added for IE only for PROBLEM2 */
+	cursor:pointer;
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.26);
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.26);
+	box-shadow: 0 1px 2px rgba(0,0,0,.26);
+}
+
+.DLG_window{	/* This div is the parent parent element of window elements such as tabs, content and status bar, i.e. the primary main parent element for a window */
+	/* background-color:#FFF; */
+	/* border:1px solid #000; */
+	width:330px;
+	height:200px;
+	overflow:visible;
+	top:0px;
+	left:0px;
+	z-index:100000;
+	position:absolute;
+	display:none;
+	
+	border: 1px solid #595959;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #fff;
+	-moz-box-shadow: 0 4px 6px rgba(0,0,0,.26);
+	-webkit-box-shadow: 0 4px 6px rgba(0,0,0,.26);
+	box-shadow: 0 4px 6px rgba(0,0,0,.26);
+}
+
+.DLG_innerDiv{	/* This div is the parent parent element of window elements such as tabs, content and status bar, i.e. the primary main parent element for a window */
+	position:relative;
+	background-color:#FFF;
+	top:0px;
+	left:0px;
+	background-color:#FFF;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.DLG_content{
+	overflow:none;
+	position:relative;
+	border:none;
+}
+
+.DLG_resizeHandle{
+	background-image:url('./images/dlg-resize.gif');
+	background-repeat:no-repeat;
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	width:14px;
+	height:14px;
+}

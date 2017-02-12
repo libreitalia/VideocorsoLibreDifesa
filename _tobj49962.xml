@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_13</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50068.html</cancelfail>
+<passdone>page50068.html</passdone>
+<prevpage>#test49923</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page77009.html</name>
+<question>
+<id>77011</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_13_1</name>
+<var>VarQuest_13_1</var>
+<text>Per creare un nuovo documento impostato come una lettera per la stampa guidata in serie </text>
+<correctans>Strumenti  Stampa guidata in serie...  Crea nuovo documento  Avanti  Lettera</correctans>
+<choices>File  Nuovo  Stampa in serie  Lettera|Strumenti  Stampa guidata in serie...  Crea nuovo documento  Avanti  Lettera|Inserisci  Nuovo documento stampa in serie  Lettera|Pulsante destro  Nuovo stampa in serie</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76997.html</name>
+<question>
+<id>76999</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_13_2</name>
+<var>VarQuest_13_2</var>
+<text>Per stampare tutte le pagine del documento unito nella stampa in serie </text>
+<correctans>Passo 8  Scegliere Stampa il documento composto  clic su Stampa</correctans>
+<choices>File  Stampa  Tutte le pagine  OK|Clic sull'icona Stampa|Premere la combinazione di tasti Ctrl + p|Passo 8  Scegliere Stampa il documento composto  clic su Stampa</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

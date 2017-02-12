@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_25</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page87076.html</cancelfail>
+<passdone>page87076.html</passdone>
+<prevpage>#test87672</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page87781.html</name>
+<question>
+<id>92216</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_25_1</name>
+<var>VarQuest_25_1</var>
+<text>Per inserire un grafico a torta nella diapositiva bisogna ...</text>
+<correctans>.. fare clic su Inserisci - grafico  clic sull'icona Tipo di grafico  scegliere Torta  Ok</correctans>
+<choices> .. non si possono inserire da Impress ma solo copiare da Calc| .. Inserisci – Torta - Ok|.. Visualizza  Grafico...  Tipo di grafico...  scegliere Torta  Ok|.. fare clic su Inserisci - grafico  clic sull'icona Tipo di grafico  scegliere Torta  Ok</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page87819.html</name>
+<question>
+<id>93103</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_25_2</name>
+<var>VarQuest_25_2</var>
+<text>Per inserire un'immagine in una slide occorre ...</text>
+<correctans>.. Inserisci  Immagine  Da file...  nella finestra Inserisci immagine, selezionare la cartella e il file di immagine  Apri,.. fare clic sull'icona Inserisci immagine nel segnaposto della slide  nella finestra Inserisci immagine, selezionare la cartella e il file  Apri</correctans>
+<choices>.. non si possono inserire immagini da file in Impress|.. Inserisci  Immagine  Da file...  nella finestra Inserisci immagine, selezionare la cartella e il file di immagine  Apri|.. fare clic sull'icona Inserisci immagine nel segnaposto della slide  nella finestra Inserisci immagine, selezionare la cartella e il file  Apri|.. Formato  Immagine  selezionare immagine  Ok</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test-01</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>4</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50088.html</cancelfail>
+<passdone>page50088.html</passdone>
+<prevpage>page94097.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page76501.html</name>
+<question>
+<id>76503</id>
+<type>1</type>
+<weight>1</weight>
+<name>Quest_01_1</name>
+<var>VarQuest_01_1</var>
+<text>LibreOffice è multipiattaforma?</text>
+<correctans>Vero</correctans>
+<choices>Vero|Falso</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76483.html</name>
+<question>
+<id>76485</id>
+<type>7</type>
+<weight>1</weight>
+<name>Quest_01_2</name>
+<var>VarQuest_01_2</var>
+<text>Colloca i bottoni nella posizione corretta.</text>
+<correctans>1-1,2-2,3-3,4-4,5-5,6-6</correctans>
+<choices>1|2|3|4|5|6</choices>
+<addedinfo>1|2|3|4|5|6</addedinfo>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page76473.html</name>
+<question>
+<id>76475</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_01_3</name>
+<var>VarQuest_01_3</var>
+<text>In quali Sistemi Operativi si può installare LibreOffice?</text>
+<correctans>Windows 7,Linux,Mac OS X</correctans>
+<choices>Windows 7|Linux|Mac OS X</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page76461.html</name>
+<question>
+<id>76463</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_01_4</name>
+<var>VarQuest_01_4</var>
+<text>Quanto costa LibreOffice?</text>
+<correctans>Nulla è GRATIS</correctans>
+<choices>Nulla è GRATIS|2 |Circa 50 |Sicuramente più di 100 </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

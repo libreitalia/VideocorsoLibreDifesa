@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_14</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>3</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page66457.html</cancelfail>
+<passdone>page66457.html</passdone>
+<prevpage>#test49962</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page77051.html</name>
+<question>
+<id>77053</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_14_1</name>
+<var>VarQuest_14_1</var>
+<text>Per inserire una riga prima della 2 in Calc </text>
+<correctans>Clic su riga 2  Inserisci  Righe,Selezione della riga 1 e 2  Inserisci  Righe</correctans>
+<choices>Clic su riga 2  Inserisci  Righe|Clic col pulsante destro su riga 2  inserisci righe sopra|Clic col pulsante destro su riga 1  inserisci righe sopra|Selezione della riga 1 e 2  Inserisci  Righe</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page77039.html</name>
+<question>
+<id>77041</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_14_2</name>
+<var>VarQuest_14_2</var>
+<text>Per cambiare il nome di un foglio in “febbraio” </text>
+<correctans>Doppio clic sull'etichetta del foglio  scrivere Febbraio  Ok,Clic col pulsante destro sull'etichetta del foglio  Rinomina foglio...  scrivere Febbraio  Ok</correctans>
+<choices>Doppio clic sull'etichetta del foglio  scrivere Febbraio  Ok|Clic col pulsante destro sull'etichetta del foglio  Rinomina foglio...  scrivere Febbraio  Ok|Modifica  Rinomina foglio...  scrivere Febbraio  Ok|Formato  Foglio  Rinomina foglio...  scrivere Febbraio  Ok</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page77027.html</name>
+<question>
+<id>77029</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_14_3</name>
+<var>VarQuest_14_3</var>
+<text>Per avere un nuovo foglio di lavoro </text>
+<correctans>Inserisci  Foglio  Ok,Clic sull'icona + vicino ad uno dei fogli presenti</correctans>
+<choices>Inserisci  Foglio  Ok|Non si può fare|Clic sull'icona + vicino ad uno dei fogli presenti|File  Nuovo  Foglio</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

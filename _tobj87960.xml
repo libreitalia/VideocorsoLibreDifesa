@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_27</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page87172.html</cancelfail>
+<passdone>page87172.html</passdone>
+<prevpage>#test87864</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page87973.html</name>
+<question>
+<id>93075</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_27_1</name>
+<var>VarQuest_27_1</var>
+<text>Per stampare le slide di una presentazione bisogna ...</text>
+<correctans>.. andare da File – Stampa e decidere se stampare slide o stampati</correctans>
+<choices>.. non si possono stampare slide|.. fare clic destro sulla presentazione – Stampa|.. fare clic su Visualizza – Stampa|.. andare da File – Stampa e decidere se stampare slide o stampati</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page88011.html</name>
+<question>
+<id>93064</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_27_2</name>
+<var>VarQuest_27_2</var>
+<text>Per stampare in bianco e nero si può ...</text>
+<correctans>.. selezionare l'opzione dalla finestra Impress di File – Stampa</correctans>
+<choices>.. non si può stampare in bianco e nero ma solo a colori|.. fare clic su Visualizza – Stampa – Bianco e nero prima della stampa|.. fare clic su Formato – Stampa – Bianco e nero prima della stampa|.. selezionare l'opzione dalla finestra Impress di File – Stampa</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

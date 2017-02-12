@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_28</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page87220.html</cancelfail>
+<passdone>page87220.html</passdone>
+<prevpage>#test87960</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page88069.html</name>
+<question>
+<id>93091</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_28_1</name>
+<var>VarQuest_28_1</var>
+<text>Per visualizzare la presentazione a tutto schermo si può ...</text>
+<correctans>.. andare da Visualizza  Presentazione,.. premere il tasto F5</correctans>
+<choices>.. fare clic sull'icona Inizia dalla prima diapositiva nella barra degli strumenti standard|.. andare da Visualizza  Presentazione|.. premere il tasto F5|.. premere la combinazione di tasti Ctrl + P</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page88107.html</name>
+<question>
+<id>93053</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_28_2</name>
+<var>VarQuest_28_2</var>
+<text>Per uscire dalla modalità presentazione ...</text>
+<correctans>.. si preme il ttasto Esc</correctans>
+<choices>.. si preme il tasto Invio|.. si preme il ttasto Uscita|.. si deve necessariamente arrivare in fondo alla presentazione|.. si preme il ttasto Esc</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_08</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50078.html</cancelfail>
+<passdone>page50078.html</passdone>
+<prevpage>#test49728</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page76833.html</name>
+<question>
+<id>76835</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_08_1</name>
+<var>VarQuest_08_1</var>
+<text>Per salvare un documento aperto con nome diverso occorre fare </text>
+<correctans>File  Salva con nome  digitare il nome  Clic su Salva</correctans>
+<choices>File  Salva con nome  digitare il nome  Clic su Salva|File  Salva  digitare il nome  Clic su Salva|Premere la combinazione di tasti Ctrl + Maiusc + s|Modifica  Salva con nome  selezionare percorso  digitare il nome  Clic su Salva</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76821.html</name>
+<question>
+<id>76823</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_08_2</name>
+<var>VarQuest_08_2</var>
+<text>Per cambiare il formato di un documento già salvato occorre</text>
+<correctans>Dalla finestra del Salva modificare il formato su Salva come,Modifica  Salva con nome  modificare il formato su Salva come</correctans>
+<choices>File  Salva e modificare il formato del documento|Dalla finestra del Salva modificare il formato su Salva come|Premere la combinazione di tasti Ctrl + Maiusc + F e cambiare il formato|Modifica  Salva con nome  modificare il formato su Salva come</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

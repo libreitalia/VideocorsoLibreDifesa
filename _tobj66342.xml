@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_19</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page66617.html</cancelfail>
+<passdone>page66617.html</passdone>
+<prevpage>#test66304</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page77209.html</name>
+<question>
+<id>77211</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_19_1</name>
+<var>VarQuest_19_1</var>
+<text>Per inserire un grafico a barre per rappresentare i dati da A1 a B10, occorre ...</text>
+<correctans>Selezionare le celle da A1 a B10   Inserisci   Grafico   Barra   Fine,Selezionare le celle da A1 a B10 clic sull'icona Grafico nella barra degli strumenti standard  Barra  Fine</correctans>
+<choices>Selezionare le celle da A1 a B10   Modifica   Grafico|Selezionare le celle da A1 a B10   Inserisci   Grafico   Barra   Fine|Selezionare le celle da A1 a B10 clic sull'icona Grafico nella barra degli strumenti standard  Barra  Fine|Selezionare le celle da A1 a B10   Tabella   Grafico   Barra   Fine</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page77197.html</name>
+<question>
+<id>77199</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_19_2</name>
+<var>VarQuest_19_2</var>
+<text>Per creare un grafico a torta a partire dai valori delle celle C1:C8  occorre ...</text>
+<correctans>Selezionare le celle da C1 a C8   Inserisci   Grafico...   Torta   Fine</correctans>
+<choices>Selezionare le celle da C1 a C8    Inserisci   Oggetto   Torta   Fine|Selezionare le celle da C1 a C8   File   Inserisci Grafico   Torta   Fine|Selezionare le celle da C1 a C8   clic sull'icona Torta per averla subito nel foglio|Selezionare le celle da C1 a C8   Inserisci   Grafico...   Torta   Fine</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

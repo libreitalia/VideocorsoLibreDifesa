@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_23</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page86980.html</cancelfail>
+<passdone>page86980.html</passdone>
+<prevpage>#test87480</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page87589.html</name>
+<question>
+<id>87687</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_23_1</name>
+<var>VarQuest_23_1</var>
+<text>Per applicare ad una diapositiva il layout Titolo e contenuto è necessario ...</text>
+<correctans>Andare da Formato   Layout diapositiva   scegliere Titolo e contenuto,Fare clic sull'icona Titolo e contenuto nella scheda Layout della barra laterale su Riquadro attività</correctans>
+<choices>Premere la combinazione di tasti Ctrl + F10|Andare da Formato   Layout diapositiva   scegliere Titolo e contenuto|Fare clic sull'icona Titolo e contenuto nella scheda Layout della barra laterale su Riquadro attività|Strumenti    Layout...   Titolo e contenuto</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page87627.html</name>
+<question>
+<id>91656</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_23_2</name>
+<var>VarQuest_23_2</var>
+<text>Tramite il layout si può inserire ...</text>
+<correctans>Titolo e testo,Titolo e oggetto (tabella, immagine, grafico, ecc.)</correctans>
+<choices>Non esistono layout utili a inserire oggetti|Titolo e testo|Titolo e oggetto (tabella, immagine, grafico, ecc.)|Grafico già pronto</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

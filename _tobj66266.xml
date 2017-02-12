@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_17</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page66553.html</cancelfail>
+<passdone>page66553.html</passdone>
+<prevpage>#test66228</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page77149.html</name>
+<question>
+<id>77151</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_17_1</name>
+<var>VarQuest_17_1</var>
+<text>Per calcolare la somma delle celle da A1 a A10</text>
+<correctans>Clic sulla cella del risultato  =somma(A1:A10)  Invio</correctans>
+<choices>Inserisci  Funzione  Somma  Ok|Clic sulla cella del risultato  =somma(A1:A10)  Invio|Clic sulla del risultato  Premere la combinazione di tasti Ctrl + S|Clic sulla cella del risultato  =somma(A1;A10)  Invio</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page77137.html</name>
+<question>
+<id>77139</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_17_2</name>
+<var>VarQuest_17_2</var>
+<text>La somma si può impostare in Calc</text>
+<correctans>cliccando sulla icona sommatoria presente nella barra del calcolo,scrivendo =SOMMA e mettendo l'intervallo di celle</correctans>
+<choices>cliccando sulla icona sommatoria presente nella barra del calcolo|scrivendo =TOTALE e mettendo l'intervallo di celle|scrivendo =SOMMA e mettendo l'intervallo di celle|non si può impostare</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

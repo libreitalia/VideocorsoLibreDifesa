@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_07</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50080.html</cancelfail>
+<passdone>page50080.html</passdone>
+<prevpage>#test49689</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page76803.html</name>
+<question>
+<id>76805</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_07_1</name>
+<var>VarQuest_07_1</var>
+<text>Per applicare uno stile carattere al testo selezionato </text>
+<correctans>Formato  Stili e formattazione  clic su uno stile</correctans>
+<choices>Formato  Carattere  scheda Stili  clic su stile|Premere la combinazione di tasti Ctrl + st  Clic su uno stile|Inserisci  Stile  clic su stile|Formato  Stili e formattazione  clic su uno stile</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76791.html</name>
+<question>
+<id>76793</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_07_2</name>
+<var>VarQuest_07_2</var>
+<text>Lo stile del carattere consente </text>
+<correctans>di creare in automatico Indici e sommari</correctans>
+<choices>di creare in automatico Indici e sommari|di applicare il grassetto a un testo (opzioni diversamente non disponibile)|di scegliere solo tra gli stili già presenti|di cambiare il formato della pagina in cui si lavora</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

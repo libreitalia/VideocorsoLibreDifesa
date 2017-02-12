@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_05</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>3</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50084.html</cancelfail>
+<passdone>page50084.html</passdone>
+<prevpage>#test49611</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page76746.html</name>
+<question>
+<id>76748</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_05_1</name>
+<var>VarQuest_05_1</var>
+<text>Modifica lo stile del titolo in Grassetto </text>
+<correctans>Selezionare il titolo  Formato  Carattere...  Stile=grassetto  OK,Selezionare il titolo  clic sull’icona grassetto</correctans>
+<choices>Selezionare il titolo  Formato  Carattere...  Stile=grassetto  OK|Selezionare il titolo  Premere la combinazione di tasti Ctrl +g|Selezionare il titolo  Strumenti  grassetto|Selezionare il titolo  clic sull’icona grassetto</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76734.html</name>
+<question>
+<id>76736</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_05_2</name>
+<var>VarQuest_05_2</var>
+<text>Qual è la procedura per inserire un nuovo paragrafo? </text>
+<correctans>Premere il tasto Invio</correctans>
+<choices>Inserisci  Interruzione manuale  Interruzione paragrafo|Premere il tasto Invio|Premere la combinazione di tasti Maiusc + invio|Formato  Paragrafo...  Nuovo</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page76722.html</name>
+<question>
+<id>76724</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_05_3</name>
+<var>VarQuest_05_3</var>
+<text>Per applicare un rientro della prima riga di 1,5 cm al paragrafo selezionato </text>
+<correctans>Formato  Paragrafo...  Rientri e spaziature  Prima riga: 1,5 cm</correctans>
+<choices>Clic sull'icona Aumenta rientro sulla barra di Formattazione|Premere la combinazione di tasti Ctrl + r|Modifica  Rientri  Prima riga: 1,5 cm|Formato  Paragrafo...  Rientri e spaziature  Prima riga: 1,5 cm</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_09</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page50076.html</cancelfail>
+<passdone>page50076.html</passdone>
+<prevpage>#test49767</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page76863.html</name>
+<question>
+<id>76865</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_09_1</name>
+<var>VarQuest_09_1</var>
+<text>Per esportare un documento in pdf </text>
+<correctans>File – Esporta nel formato PDF – Esportare,Clic sull'icona presente nella barra standard e clic su Salva</correctans>
+<choices>Clic su Modifica – Esporta nel formato PDF - Esportare|File – Salva con nome in PDF – Salva|File – Esporta nel formato PDF – Esportare|Clic sull'icona presente nella barra standard e clic su Salva</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page76851.html</name>
+<question>
+<id>76853</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_09_2</name>
+<var>VarQuest_09_2</var>
+<text>Il file PDF generato da LibreOffice</text>
+<correctans>E' generato da File – Esporta nel formato PDF da dove si possono impostare diverse opzioni</correctans>
+<choices>Non può essere di tipo PDF/A|E' diverso da altri PDF|Non può avere impostate opzioni particolari (come la password o la risoluzione)|E' generato da File – Esporta nel formato PDF da dove si possono impostare diverse opzioni</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

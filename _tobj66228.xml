@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_16</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page66521.html</cancelfail>
+<passdone>page66521.html</passdone>
+<prevpage>#test66190</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page77119.html</name>
+<question>
+<id>77121</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_16_1</name>
+<var>VarQuest_16_1</var>
+<text>Qual è la sintassi corretta per una formula che calcola il prodotto tra B2 e B5? </text>
+<correctans>=B2*B5</correctans>
+<choices>=prodotto(B2:B5)|=B2*B5|=B2XB5|B2+B5</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page77107.html</name>
+<question>
+<id>77109</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_16_2</name>
+<var>VarQuest_16_2</var>
+<text>Per scrivere una formula in Calc si deve ...</text>
+<correctans>Cliccare sulla cella del risultato, scrivere la formula, dare Invio</correctans>
+<choices>Cliccare sulla cella del risultato, scrivere la formula, dare Invio|Inserisci – Formula generica e scrivere la formula|Modifica – Formula e scrivere|File – Inserisci Formula e scrivere la formula - Invio</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_22</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page86932.html</cancelfail>
+<passdone>page86932.html</passdone>
+<prevpage>#test87384</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page87493.html</name>
+<question>
+<id>87495</id>
+<type>14</type>
+<weight>1</weight>
+<name>Quest_22_1</name>
+<var>VarQuest_22_1</var>
+<text>Come si sposta una slide?</text>
+<correctans>Per trascinamento dalla barra diapositive,Clic destro sulla diapositiva – Taglia – mi sposto nella diapositiva precedente a dove voglio portarla - Incolla</correctans>
+<choices>Non si può spostare|Per trascinamento dalla barra diapositive|Clic destro sulla diapositiva – Taglia – mi sposto nella diapositiva precedente a dove voglio portarla - Incolla|Clic destro sulla diapositiva – Copia – mi sposto nella diapositiva precedente a dove voglio portarla - Incolla</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page87531.html</name>
+<question>
+<id>87533</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_22_2</name>
+<var>VarQuest_22_2</var>
+<text>Come si elimina una slide?</text>
+<correctans>Clic destro sulla slide nel riquadro diapositive – clic su Elimina</correctans>
+<choices>Per trascinamento portandola come ultima|Clic destro sulla slide - Nascondi|Non si può fare|Clic destro sulla slide nel riquadro diapositive – clic su Elimina</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

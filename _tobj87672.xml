@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_24</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page87028.html</cancelfail>
+<passdone>page87028.html</passdone>
+<prevpage>#test87576</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page87685.html</name>
+<question>
+<id>92366</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_24_1</name>
+<var>VarQuest_24_1</var>
+<text>Per applicare un colore a scelta allo sfondo di tutte le diapositive ...</text>
+<correctans>Formato  Pagina  scheda Sfondo  Riempimento: colore, scegliere un colore  Ok  Impostazioni dello sfondo per tutte le pagine: Sì</correctans>
+<choices>Sfondo  scegliere un colore  Ok  Impostazioni dello sfondo per tutte le pagine: Sì|Visualizza  Sfondo  Maschera  Formato  Sfondo  Riempimento: colore, scegliere un colore  Ok  chiudere la vista sfondo|Modifica  Sfondo diapositive  scegliere un colore  Ok|Formato  Pagina  scheda Sfondo  Riempimento: colore, scegliere un colore  Ok  Impostazioni dello sfondo per tutte le pagine: Sì</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page87723.html</name>
+<question>
+<id>92355</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_24_2</name>
+<var>VarQuest_24_2</var>
+<text>Per inserire in tutte le diapositive un rettangolo in alto a destra occore ..</text>
+<correctans>Visualizza  Sfondo  Maschera  clic sull'icona Rettangolo nella barra degli strumenti di disegno  disegnare il rettangolo in alto a destra</correctans>
+<choices>Clic sull'icona Rettangolo nella barra degli strumenti di disegno  trascino tra titolo e contenuto per disegnare il rettangolo  ripeto l'operazione per ciascuna diapositiva|Visualizza  Maschera – disegnare il rettangolo - Ok|Inserisci  Oggetto...  selezionare un rettangolo  Ok  ripeto l'operazione per ciascuna diapositiva|Visualizza  Sfondo  Maschera  clic sull'icona Rettangolo nella barra degli strumenti di disegno  disegnare il rettangolo in alto a destra</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

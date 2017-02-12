@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test_18</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>2</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>page66585.html</cancelfail>
+<passdone>page66585.html</passdone>
+<prevpage>#test66266</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>page77179.html</name>
+<question>
+<id>77181</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_18_1</name>
+<var>VarQuest_18_1</var>
+<text>Per inserire il calcolo della media dei valori inseriti nelle celle da A1 a A5 ...</text>
+<correctans>Clic sulla dove voglio vedere il risultato  scrivere =media(A1:A5)  Invio</correctans>
+<choices>Seleziono la cella in cui voglio vedere il risultato e premo l'apposita icona presente nella barra della formula  seleziono la funzione  media  OK|Clic sulla dove voglio vedere il risultato  scrivere =media(A1:A5)  Invio|Premere la combinazione di tasti Ctrl + M + E|Clic col pulsante dx  Calcola  Media  Ok</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page77167.html</name>
+<question>
+<id>77169</id>
+<type>2</type>
+<weight>1</weight>
+<name>Quest_18_2</name>
+<var>VarQuest_18_2</var>
+<text>Per calcolare il massimo delle celle da A2 a A5 devo scrivere  ...</text>
+<correctans>=MAX(A2:A5)</correctans>
+<choices>=MAX(A2:A5)|=MIN(A2:A5)|=MASSIMO(A2:A5)|=MAX(A2;A5)</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>
